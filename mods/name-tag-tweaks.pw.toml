@@ -1,0 +1,13 @@
+name = "Name Tag Tweaks"
+filename = "nametagtweaks-fabric_1.19.2-2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LrLZEnPl/versions/wTDahE3e/nametagtweaks-fabric_1.19.2-2.3.jar"
+hash-format = "sha1"
+hash = "617e63d17e5f6d1bc59acf148f3ea16febd24846"
+
+[update]
+[update.modrinth]
+mod-id = "LrLZEnPl"
+version = "wTDahE3e"

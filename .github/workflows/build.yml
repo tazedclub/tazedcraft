@@ -1,0 +1,27 @@
+name: Build Tazedcraft
+run-name: Build latest modpack
+on: 
+  - push
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - name: Install Go
+        uses: actions/setup-go@v3
+      - name: Install Packwiz
+        run: go install github.com/packwiz/packwiz@latest
+      - name: Create output directory
+        run: mkdir out
+      - name: Create CurseForge-Zip
+        working-directory: ./out
+        run: packwiz curseforge export
+      - name: Create Modrinth-Pack
+        working-directory: ./out
+        run: packwiz modrinth export -o out/
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          path: out/*
+          if-no-files-found: error

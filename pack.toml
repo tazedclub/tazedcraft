@@ -1,0 +1,13 @@
+name = "TazedCraft"
+author = "JonnyB <me@jonnyb.name>"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4a1907e6628fcfcf56d9429458c37317c17eda5a3018c9f4b8b63e736f92686b"
+
+[versions]
+fabric = "0.14.10"
+minecraft = "1.19.2"
