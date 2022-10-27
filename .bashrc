@@ -1,9 +1,13 @@
 #! /usr/bin/env bash
 
+function pw {
+    packwiz $@
+}
+
 function pwmi {
-    packwiz modrinth install $1
+    pw modrinth install $@
 }
 
 function pwci {
-    packwiz curseforge install $1
+    pw curseforge install $@
 }

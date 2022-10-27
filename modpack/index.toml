@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".bashrc"
-hash = "a611eefca0a071fcfec4536521e96538af87251d8a95d066c05cbbedf5a33a55"
-
-[[files]]
-file = ".github/workflows/build.yml"
-hash = "b65b76ebb1ca66fbd9898183c08bd24fd5de9e2fec33700465cb644c151f1dcd"
-
-[[files]]
-file = "TODO.md"
-hash = "3fd452faba22c917acc11010e4759d8d292442f0fa093c3b47230101aab1fc5c"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "651bb1998c83a40530d6cb95d40bd13e2f0f8ab064e0efdd3630f648cbe7f4ed"
 metafile = true

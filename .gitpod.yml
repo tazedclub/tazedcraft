@@ -1,0 +1,6 @@
+tasks:
+  - name: Setup completion
+    init: |
+      go install github.com/packwiz/packwiz@latest
+      cat .bashrc >> ~/.bashrc
+      packwiz completion bash

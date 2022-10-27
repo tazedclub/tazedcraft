@@ -2,6 +2,11 @@ name: Build Tazedcraft
 run-name: Build latest modpack
 on: 
   - push
+
+defaults:
+  run:
+    working-directory: './modpack'
+
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
@@ -17,13 +22,13 @@ jobs:
       - name: Create output directory
         run: mkdir out
       - name: Create CurseForge-Zip
-        working-directory: ./out
+        working-directory: /out
         run: packwiz curseforge export
       - name: Create Modrinth-Pack
-        working-directory: ./out
-        run: packwiz modrinth export -o out/
+        working-directory: /out
+        run: packwiz modrinth export
       - name: Upload artifacts
         uses: actions/upload-artifact@v3
         with:
-          path: out/*
+          path: /out/*
           if-no-files-found: error
