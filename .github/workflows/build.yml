@@ -12,6 +12,8 @@ jobs:
         uses: actions/setup-go@v3
       - name: Install Packwiz
         run: go install github.com/packwiz/packwiz@latest
+        with:
+          go-version: '^1.18'
       - name: Create output directory
         run: mkdir out
       - name: Create CurseForge-Zip
