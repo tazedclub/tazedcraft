@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bclib/client.json"
+hash = "a4a9e5acf6e47c0007f9d60fdfa8e7fe8effb7c750c46ed0d15ca49f7af40530"
+
+[[files]]
 file = "config/fwaystones/config.json5"
 hash = "e29a69f998be3b363cb056df87fdd5956cbe8cfbb822d3e1972d743f8770da3b"
 
@@ -303,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0ea0cc8225119a997b409c21410274982d7176f0efc921e3279eeb8bbf7bdcdc"
+hash = "00e1db3341f155b564a7374d66e01959680cf9b9afabad7f56efd5a1ca3d9840"
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
@@ -349,6 +353,10 @@ metafile = true
 file = "resourcepacks/xalis-enchanted-books.pw.toml"
 hash = "5cb15fcefffc94e700dd5d776400b37fb3296ede3d2e546d17a7f85b35964ce7"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "ca62e427bee24be83ecedc3475d14a7a09967b7cbb738fef8c2702e0bcb2aa2a"
 
 [[files]]
 file = "shaderpacks/complementaryreimagined.pw.toml"
