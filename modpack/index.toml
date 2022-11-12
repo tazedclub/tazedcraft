@@ -24,12 +24,22 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "67107db1c4599ba3f6002f9c8bff2d84a8e31edfaad934d78d850988758c953e"
+hash = "5a9808e1125ab6e1bd3b5b347b26342c8fdb4845a2b6a494bcef21d4881504e6"
 metafile = true
 
 [[files]]
 file = "mods/betteranimalsplus.pw.toml"
 hash = "0abb3d6175eb811aadb9ce64423505bb37f316fcb1b22eba58012f3a2cd7b849"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "e3745fe039940bde438767cf84d1d313bec5d806415b185ac4386c368190a6f9"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "5d450eb05b27dff35aa17b0255868c56a23834078ef72b565b9590ea82d51a16"
 metafile = true
 
 [[files]]
