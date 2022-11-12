@@ -25,6 +25,11 @@ hash = "0abb3d6175eb811aadb9ce64423505bb37f316fcb1b22eba58012f3a2cd7b849"
 metafile = true
 
 [[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "3d89448c7689702ee772d9d1a5119dc7f47facdf8adf0d780804fda257d6671a"
 metafile = true
