@@ -5,8 +5,12 @@ file = "config/fwaystones/config.json5"
 hash = "e29a69f998be3b363cb056df87fdd5956cbe8cfbb822d3e1972d743f8770da3b"
 
 [[files]]
+file = "config/iris.properties"
+hash = "cb51118369c96950a92e5c843bb70d2e5859ca6dc8461a19d2591ba3f1c2c258"
+
+[[files]]
 file = "config/xaerominimap.txt"
-hash = "9869011e63431c7750cf9d960ddab2a7691557fbfb506f873d4ca834d6dd48c3"
+hash = "90809360f4b4182c717d18d93f2f3f0aa355da16339c76eea65b71a9d3820260"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
@@ -40,11 +44,6 @@ metafile = true
 [[files]]
 file = "mods/betternether.pw.toml"
 hash = "5d450eb05b27dff35aa17b0255868c56a23834078ef72b565b9590ea82d51a16"
-metafile = true
-
-[[files]]
-file = "mods/borderless-mining.pw.toml"
-hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
 metafile = true
 
 [[files]]
@@ -150,6 +149,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "7c3e839ecd643c10c6f905e193b6edc18c978e4be202a031cffd0b3a45266ece"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
 metafile = true
 
 [[files]]
@@ -269,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d816ebefd14031acd676b2e7dc2d77ea7e1370903ddac480865fb68540216032"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
@@ -298,6 +302,15 @@ hash = "a357191187a74983c7bd9e8f5cc7efddb15929031b989858a1182265f4e6be0f"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "0ea0cc8225119a997b409c21410274982d7176f0efc921e3279eeb8bbf7bdcdc"
+
+[[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "2134abab2653fe608deca2ba00a1f70a5f61e4458a62df449f864c51d1b74e2b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/bettervanillabuilding.pw.toml"
 hash = "1f7e0c8f3796f46870cd231c51a80b608f1b3a1699be60a7f17a59808b759eca"
 metafile = true
@@ -318,8 +331,8 @@ hash = "b621b704ae8c98c9e133e4e7401155be07a11308e765aede4c3d8ecf8bcfa9d8"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mizuno.pw.toml"
-hash = "86f9392d47caf1b01c9d7036b4e819c08ed384373390ea1eb93a0be5e4248ada"
+file = "resourcepacks/mizunos.pw.toml"
+hash = "cfa6cfbec99f25cf9f5bfba9f03fd7510fdb7c10549081dd7cfd1f05f4abde37"
 metafile = true
 
 [[files]]
@@ -335,4 +348,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/xalis-enchanted-books.pw.toml"
 hash = "788399c22d34dc1ebe707977f6b14ef2d78b1f6d5afbc093b6b135fd26291a0e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementaryreimagined.pw.toml"
+hash = "9ebe0cd2104ee2c10b7d7e4e77ed82cc1722d274a5a8033ad852b6dac17eecf7"
 metafile = true

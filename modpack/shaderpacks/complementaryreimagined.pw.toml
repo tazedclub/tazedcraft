@@ -1,0 +1,7 @@
+name = "ComplementaryReimagined"
+filename = "ComplementaryReimagined_r1.2.2.zip"
+
+[download]
+url = "https://d3cdxjjllftpi5.cloudfront.net/tazedcraft/shaderpacks/ComplementaryReimagined_r1.2.2.zip"
+hash-format = "sha1"
+hash = "c3421eda95f7fd3cf8567832de82e1442a3c8b68"
