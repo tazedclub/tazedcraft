@@ -46,6 +46,11 @@ hash = "e3745fe039940bde438767cf84d1d313bec5d806415b185ac4386c368190a6f9"
 metafile = true
 
 [[files]]
+file = "mods/betterleads.pw.toml"
+hash = "0a8bb1e39da1a8e16c83d0144f75a85ec942c74ddc73f92838e3bf55c06a0093"
+metafile = true
+
+[[files]]
 file = "mods/betternether.pw.toml"
 hash = "5d450eb05b27dff35aa17b0255868c56a23834078ef72b565b9590ea82d51a16"
 metafile = true
@@ -288,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "49f66f26db6f00e16e94c0b161f3786f9d7afaef4667e78b9e5e35a1c9556a7d"
+metafile = true
+
+[[files]]
+file = "mods/wthit-plugins.pw.toml"
+hash = "63e7c439fccdafeb42e3c2a6204b2293b177da0903c4ea6af877ca629085c5c2"
 metafile = true
 
 [[files]]
