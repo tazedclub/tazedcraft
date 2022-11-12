@@ -1,0 +1,13 @@
+name = "BetterVanillaBuilding Overlays "
+filename = "BvBOverlaysV4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "40c4e5559436b33a9d4bdf75c0ce981066b1198d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4027805
+project-id = 544434

@@ -1,0 +1,13 @@
+name = "Visible Ores"
+filename = "VisibleOres2.8.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f98d3ce54e47adba709432ca0f2c4bae012860c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3925888
+project-id = 422825

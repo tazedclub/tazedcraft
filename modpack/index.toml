@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fwaystones/config.json5"
+hash = "e29a69f998be3b363cb056df87fdd5956cbe8cfbb822d3e1972d743f8770da3b"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "651bb1998c83a40530d6cb95d40bd13e2f0f8ab064e0efdd3630f648cbe7f4ed"
 metafile = true
@@ -18,16 +22,6 @@ metafile = true
 [[files]]
 file = "mods/betteranimalsplus.pw.toml"
 hash = "0abb3d6175eb811aadb9ce64423505bb37f316fcb1b22eba58012f3a2cd7b849"
-metafile = true
-
-[[files]]
-file = "mods/betterend.pw.toml"
-hash = "599849db42f634fec547028019c6f4c88da9e874e073773abee8d33d4a8bd1aa"
-metafile = true
-
-[[files]]
-file = "mods/betternether.pw.toml"
-hash = "6128fd578420a8a573bacc3a0601aadc9f91dce14af39dbcabc96831be4bc95a"
 metafile = true
 
 [[files]]
@@ -88,6 +82,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "4af2fed6585b6523b0dea6d5eef7c8139cbda61db34327a2e9e06a116e9fa6f7"
 metafile = true
 
 [[files]]
@@ -186,6 +185,11 @@ hash = "a067a3a38a6df8bf4440edc13ad29e22adf31041858c4fc4aee991c0f0e87263"
 metafile = true
 
 [[files]]
+file = "mods/optigui.pw.toml"
+hash = "fc829d9bfa6e9c399324e64cc5feb01f01630fc0971c7286ac08b5575dcf89b2"
+metafile = true
+
+[[files]]
 file = "mods/origins-umbrellas.pw.toml"
 hash = "db7eb9490bf80d0c26330a1e0d97227c13b41ba849f3618521547a84bce20162"
 metafile = true
@@ -258,4 +262,44 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "b1af4eefa1a2323bcfabb94592712b34ef3088098e8e26086ff48abe8cf0baf9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bettervanillabuilding.pw.toml"
+hash = "1f7e0c8f3796f46870cd231c51a80b608f1b3a1699be60a7f17a59808b759eca"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bvb-overlays.pw.toml"
+hash = "08624021986a99f794ee44b9d69db833933a898281518a47709e049f08490932"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "f6aa8f305f16d2a81113581b1004d742f256eaff429ba9b5781635eb7b060fab"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-64x.pw.toml"
+hash = "b621b704ae8c98c9e133e4e7401155be07a11308e765aede4c3d8ecf8bcfa9d8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mizuno.pw.toml"
+hash = "86f9392d47caf1b01c9d7036b4e819c08ed384373390ea1eb93a0be5e4248ada"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stay-true.pw.toml"
+hash = "f461c149788f81fdc37051fc67a8496478b685d96258c98e477f24e696294e78"
+metafile = true
+
+[[files]]
+file = "resourcepacks/visible-ores.pw.toml"
+hash = "9ebfb809123dd5d5decff26b113cfe5164e58b3de0048d6f0a63e1079f574b08"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enchanted-books.pw.toml"
+hash = "788399c22d34dc1ebe707977f6b14ef2d78b1f6d5afbc093b6b135fd26291a0e"
 metafile = true
