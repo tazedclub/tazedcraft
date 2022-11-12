@@ -1,12 +1,12 @@
 name = "TazedCraft"
 author = "JonnyB <me@jonnyb.name>"
-version = "1.0.3"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "98a87564e4d321be13ac45f8f0235350068ea1745a795494799d20e189dc1928"
+hash = "20d06c739309bff5d5834f5275c937be079d39312ed2c02e0d2355cc2771b461"
 
 [versions]
 fabric = "0.14.10"

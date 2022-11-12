@@ -44,6 +44,11 @@ hash = "5a9808e1125ab6e1bd3b5b347b26342c8fdb4845a2b6a494bcef21d4881504e6"
 metafile = true
 
 [[files]]
+file = "mods/better-stats.pw.toml"
+hash = "77cf3f9a7eed8114c6b5c490fda2779909e77ba80acb18a0593533704042bc2a"
+metafile = true
+
+[[files]]
 file = "mods/betteranimalsplus.pw.toml"
 hash = "0abb3d6175eb811aadb9ce64423505bb37f316fcb1b22eba58012f3a2cd7b849"
 metafile = true
@@ -96,11 +101,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
-metafile = true
-
-[[files]]
-file = "mods/cull-leaves.pw.toml"
-hash = "9abd864619ec81ac3f03b917c79385634250686dab458b2b563026f4bcd7f2c1"
 metafile = true
 
 [[files]]
@@ -214,6 +214,11 @@ hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
 metafile = true
 
 [[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "ab9f1a44770958246ddee1e25a0748ca8c4597daceadebe7ecd3b59b50df7951"
+metafile = true
+
+[[files]]
 file = "mods/name-tag-tweaks.pw.toml"
 hash = "d7c8c25bb7056d3461b6f63113d116d478d7fdf539b93d78dd3049419dca5a81"
 metafile = true
@@ -301,11 +306,6 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "49f66f26db6f00e16e94c0b161f3786f9d7afaef4667e78b9e5e35a1c9556a7d"
-metafile = true
-
-[[files]]
-file = "mods/wthit-plugins.pw.toml"
-hash = "63e7c439fccdafeb42e3c2a6204b2293b177da0903c4ea6af877ca629085c5c2"
 metafile = true
 
 [[files]]
