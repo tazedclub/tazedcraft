@@ -43,11 +43,6 @@ hash = "5d450eb05b27dff35aa17b0255868c56a23834078ef72b565b9590ea82d51a16"
 metafile = true
 
 [[files]]
-file = "mods/borderless-mining.pw.toml"
-hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
-metafile = true
-
-[[files]]
 file = "mods/carpet.pw.toml"
 hash = "3d89448c7689702ee772d9d1a5119dc7f47facdf8adf0d780804fda257d6671a"
 metafile = true
@@ -296,6 +291,10 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "a357191187a74983c7bd9e8f5cc7efddb15929031b989858a1182265f4e6be0f"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "4d587d801b5fac6a4fd3b04bb109eb8930c0b05baee7ea62326f9b6ffad107e2"
 
 [[files]]
 file = "resourcepacks/bettervanillabuilding.pw.toml"
