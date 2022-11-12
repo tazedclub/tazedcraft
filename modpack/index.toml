@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bclib/client.json"
-hash = "a4a9e5acf6e47c0007f9d60fdfa8e7fe8effb7c750c46ed0d15ca49f7af40530"
+hash = "6f7f3376f59425cff1a180382fc5ef4b172d1ec6b5b8f83a1cedd072c0ea90ce"
+
+[[files]]
+file = "config/bclib/server.json"
+hash = "c01362d70dd8d13c6e7e3f33e4689cf5c628904f43767d15c20a0161431729a4"
 
 [[files]]
 file = "config/fwaystones/config.json5"
