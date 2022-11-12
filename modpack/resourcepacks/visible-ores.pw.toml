@@ -1,6 +1,6 @@
 name = "Visible Ores"
 filename = "VisibleOres2.8.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

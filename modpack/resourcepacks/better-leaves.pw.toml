@@ -1,5 +1,6 @@
 name = "Better Leaves"
 filename = "Better-Leaves-7.0-1.13+.zip"
+side = "client"
 
 [download]
 url = "https://d3cdxjjllftpi5.cloudfront.net/tazedcraft/resourcepacks/Better-Leaves-7.0-1.13%2B.zip"

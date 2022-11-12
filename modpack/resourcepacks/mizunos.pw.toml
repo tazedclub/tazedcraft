@@ -1,5 +1,6 @@
 name = "Mizunos"
 filename = "Mizunos 16 Craft JE_1.18.2-1.0.zip"
+side = "client"
 
 [download]
 url = "https://d3cdxjjllftpi5.cloudfront.net/tazedcraft/resourcepacks/Mizunos 16 Craft JE_1.18.2-1.0.zip"
