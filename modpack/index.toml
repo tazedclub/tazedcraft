@@ -318,11 +318,6 @@ hash = "b621b704ae8c98c9e133e4e7401155be07a11308e765aede4c3d8ecf8bcfa9d8"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mizuno.pw.toml"
-hash = "86f9392d47caf1b01c9d7036b4e819c08ed384373390ea1eb93a0be5e4248ada"
-metafile = true
-
-[[files]]
 file = "resourcepacks/stay-true.pw.toml"
 hash = "f461c149788f81fdc37051fc67a8496478b685d96258c98e477f24e696294e78"
 metafile = true
