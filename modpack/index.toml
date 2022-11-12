@@ -17,6 +17,10 @@ file = "config/iris.properties"
 hash = "cb51118369c96950a92e5c843bb70d2e5859ca6dc8461a19d2591ba3f1c2c258"
 
 [[files]]
+file = "config/waila/waila_plugins.json"
+hash = "8a87e871cdffef3bc420d3d78ad96863642d200ccb171aba89c3da21d927007a"
+
+[[files]]
 file = "config/xaerominimap.txt"
 hash = "90809360f4b4182c717d18d93f2f3f0aa355da16339c76eea65b71a9d3820260"
 
@@ -331,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "00e1db3341f155b564a7374d66e01959680cf9b9afabad7f56efd5a1ca3d9840"
+hash = "e11dd78c2eab05f8493a69526530b82c893e10c519278dd1bb7f7310f4215692"
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
