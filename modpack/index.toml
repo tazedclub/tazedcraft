@@ -28,11 +28,6 @@ hash = "5a9808e1125ab6e1bd3b5b347b26342c8fdb4845a2b6a494bcef21d4881504e6"
 metafile = true
 
 [[files]]
-file = "mods/better-leaves.pw.toml"
-hash = "2134abab2653fe608deca2ba00a1f70a5f61e4458a62df449f864c51d1b74e2b"
-metafile = true
-
-[[files]]
 file = "mods/betteranimalsplus.pw.toml"
 hash = "0abb3d6175eb811aadb9ce64423505bb37f316fcb1b22eba58012f3a2cd7b849"
 metafile = true
@@ -75,11 +70,6 @@ metafile = true
 [[files]]
 file = "mods/comforts-fabric.pw.toml"
 hash = "04b2a5552f6eaf7786cbc493582d1b843dbd708f895ecbde00eec906bd1230ea"
-metafile = true
-
-[[files]]
-file = "mods/complementaryreimagined.pw.toml"
-hash = "9ebe0cd2104ee2c10b7d7e4e77ed82cc1722d274a5a8033ad852b6dac17eecf7"
 metafile = true
 
 [[files]]
@@ -180,11 +170,6 @@ metafile = true
 [[files]]
 file = "mods/mavm.pw.toml"
 hash = "aba200ac8818fe5ce59c1cb342dcd530b81e3ea85ce2e9f9c1d3a8863b8b1be7"
-metafile = true
-
-[[files]]
-file = "mods/mizunos.pw.toml"
-hash = "cfa6cfbec99f25cf9f5bfba9f03fd7510fdb7c10549081dd7cfd1f05f4abde37"
 metafile = true
 
 [[files]]
@@ -312,6 +297,11 @@ file = "options.txt"
 hash = "4d587d801b5fac6a4fd3b04bb109eb8930c0b05baee7ea62326f9b6ffad107e2"
 
 [[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "2134abab2653fe608deca2ba00a1f70a5f61e4458a62df449f864c51d1b74e2b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/bettervanillabuilding.pw.toml"
 hash = "1f7e0c8f3796f46870cd231c51a80b608f1b3a1699be60a7f17a59808b759eca"
 metafile = true
@@ -332,6 +322,11 @@ hash = "b621b704ae8c98c9e133e4e7401155be07a11308e765aede4c3d8ecf8bcfa9d8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mizunos.pw.toml"
+hash = "cfa6cfbec99f25cf9f5bfba9f03fd7510fdb7c10549081dd7cfd1f05f4abde37"
+metafile = true
+
+[[files]]
 file = "resourcepacks/stay-true.pw.toml"
 hash = "f461c149788f81fdc37051fc67a8496478b685d96258c98e477f24e696294e78"
 metafile = true
@@ -344,4 +339,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/xalis-enchanted-books.pw.toml"
 hash = "788399c22d34dc1ebe707977f6b14ef2d78b1f6d5afbc093b6b135fd26291a0e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementaryreimagined.pw.toml"
+hash = "9ebe0cd2104ee2c10b7d7e4e77ed82cc1722d274a5a8033ad852b6dac17eecf7"
 metafile = true
