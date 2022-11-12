@@ -14,7 +14,7 @@ hash = "9b327ae6c0c06b47f2891fe093a70bc2568269f23286f36f4c91b180c016b5cd"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "be7cd5bb98612bff05b734b897003c56dca3d943901fc4d59f2b1a86a5ee0771"
+hash = "651bb1998c83a40530d6cb95d40bd13e2f0f8ab064e0efdd3630f648cbe7f4ed"
 metafile = true
 
 [[files]]
