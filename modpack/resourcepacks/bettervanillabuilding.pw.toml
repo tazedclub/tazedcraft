@@ -1,6 +1,6 @@
 name = "BetterVanillaBuilding"
 filename = "BetterVanillaBuildingV2.78.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -18,7 +18,7 @@ fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
-darkMojangStudiosBackground:false
+darkMojangStudiosBackground:true
 hideLightningFlashes:false
 mouseSensitivity:0.5
 fov:0.0
@@ -67,10 +67,10 @@ tutorialStep:find_tree
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
-skipRealms32bitWarning:false
+skipMultiplayerWarning:true
+skipRealms32bitWarning:true
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
@@ -99,7 +99,7 @@ key_key.smoothCamera:key.keyboard.unknown
 key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.swapOffhand:key.keyboard.f
-key_key.saveToolbarActivator:key.keyboard.c
+key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.x
 key_key.advancements:key.keyboard.l
 key_key.hotbar.1:key.keyboard.1

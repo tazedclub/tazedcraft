@@ -1,6 +1,6 @@
 name = "Default Dark Mode"
 filename = "Default-Dark-Mode-1.19-v1.3.4.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

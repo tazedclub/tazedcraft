@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bclib/client.json"
+hash = "a4a9e5acf6e47c0007f9d60fdfa8e7fe8effb7c750c46ed0d15ca49f7af40530"
+
+[[files]]
 file = "config/fwaystones/config.json5"
 hash = "e29a69f998be3b363cb056df87fdd5956cbe8cfbb822d3e1972d743f8770da3b"
 
@@ -39,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/betterend.pw.toml"
 hash = "e3745fe039940bde438767cf84d1d313bec5d806415b185ac4386c368190a6f9"
+metafile = true
+
+[[files]]
+file = "mods/betterleads.pw.toml"
+hash = "0a8bb1e39da1a8e16c83d0144f75a85ec942c74ddc73f92838e3bf55c06a0093"
 metafile = true
 
 [[files]]
@@ -123,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5e0fb026c7bfa446e3398b6297ff4a7223f8b423a829a8543d78174b83063edf"
+hash = "2d6dd083a7b01b1035a52c09a088137b930ea6f0f8f28ae3e0ba23f05937e3ef"
 metafile = true
 
 [[files]]
@@ -287,6 +296,11 @@ hash = "49f66f26db6f00e16e94c0b161f3786f9d7afaef4667e78b9e5e35a1c9556a7d"
 metafile = true
 
 [[files]]
+file = "mods/wthit-plugins.pw.toml"
+hash = "63e7c439fccdafeb42e3c2a6204b2293b177da0903c4ea6af877ca629085c5c2"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "df435f2461df3750a6588b71a19a87299e82bb38b8c9080433c86a58d731ecad"
 metafile = true
@@ -302,55 +316,69 @@ hash = "a357191187a74983c7bd9e8f5cc7efddb15929031b989858a1182265f4e6be0f"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "bf1922d77e7e4b5667532dd6abd36f5cdff870314247d43a1cf50e9139e18458"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "fd46de6c3c5d14189e12daa71b81e697a248fbeac9b1c0b2d71bb8f61a84605b"
+metafile = true
+
+[[files]]
 file = "options.txt"
-hash = "0ea0cc8225119a997b409c21410274982d7176f0efc921e3279eeb8bbf7bdcdc"
+hash = "00e1db3341f155b564a7374d66e01959680cf9b9afabad7f56efd5a1ca3d9840"
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
-hash = "2134abab2653fe608deca2ba00a1f70a5f61e4458a62df449f864c51d1b74e2b"
+hash = "eac79b4232c6e56238acfbe505eadc9dfb09f8431f9980b9aad978b950ee8d8b"
 metafile = true
 
 [[files]]
 file = "resourcepacks/bettervanillabuilding.pw.toml"
-hash = "1f7e0c8f3796f46870cd231c51a80b608f1b3a1699be60a7f17a59808b759eca"
+hash = "06f663b8a972fe9a6de3e2f98da209e445c3e3a57dbcbfd32bd3c32bfcdd789d"
 metafile = true
 
 [[files]]
 file = "resourcepacks/bvb-overlays.pw.toml"
-hash = "08624021986a99f794ee44b9d69db833933a898281518a47709e049f08490932"
+hash = "f917f778fc3a62ada48cba835309b02408863f41cdf8513b122434112cfca8bb"
 metafile = true
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "f6aa8f305f16d2a81113581b1004d742f256eaff429ba9b5781635eb7b060fab"
+hash = "b977c3bb1af69a010b1f8f7a813b42b280bc377bd70c842f3f3cc62be21fdb1f"
 metafile = true
 
 [[files]]
 file = "resourcepacks/faithful-64x.pw.toml"
-hash = "b621b704ae8c98c9e133e4e7401155be07a11308e765aede4c3d8ecf8bcfa9d8"
+hash = "3b8ea25490123004c662cf5cee716951f672dbc22b5d700662f7679e1cb251b3"
 metafile = true
 
 [[files]]
 file = "resourcepacks/mizunos.pw.toml"
-hash = "cfa6cfbec99f25cf9f5bfba9f03fd7510fdb7c10549081dd7cfd1f05f4abde37"
+hash = "adf27e3d7624ed2a11e2b89ea6defc4095c22cddd9668538d4d3c7b180d5e5dd"
 metafile = true
 
 [[files]]
 file = "resourcepacks/stay-true.pw.toml"
-hash = "f461c149788f81fdc37051fc67a8496478b685d96258c98e477f24e696294e78"
+hash = "b0b16794b3e1fb2ee63b303998aad3fc19d78f7696bde46a53e8160fbeae8084"
 metafile = true
 
 [[files]]
 file = "resourcepacks/visible-ores.pw.toml"
-hash = "9ebfb809123dd5d5decff26b113cfe5164e58b3de0048d6f0a63e1079f574b08"
+hash = "ef25bbf15fd790ad9f895c135a416319a7a30992d6ab9be6f0ad90c3a9034e05"
 metafile = true
 
 [[files]]
 file = "resourcepacks/xalis-enchanted-books.pw.toml"
-hash = "788399c22d34dc1ebe707977f6b14ef2d78b1f6d5afbc093b6b135fd26291a0e"
+hash = "5cb15fcefffc94e700dd5d776400b37fb3296ede3d2e546d17a7f85b35964ce7"
 metafile = true
 
 [[files]]
+file = "servers.dat"
+hash = "ca62e427bee24be83ecedc3475d14a7a09967b7cbb738fef8c2702e0bcb2aa2a"
+
+[[files]]
 file = "shaderpacks/complementaryreimagined.pw.toml"
-hash = "9ebe0cd2104ee2c10b7d7e4e77ed82cc1722d274a5a8033ad852b6dac17eecf7"
+hash = "119abdb28fb3eb23a73a3cf4606bf06becf39b21eb4868925d91b0c77005057b"
 metafile = true

@@ -1,5 +1,6 @@
 name = "ComplementaryReimagined"
 filename = "ComplementaryReimagined_r1.2.2.zip"
+side = "client"
 
 [download]
 url = "https://d3cdxjjllftpi5.cloudfront.net/tazedcraft/shaderpacks/ComplementaryReimagined_r1.2.2.zip"

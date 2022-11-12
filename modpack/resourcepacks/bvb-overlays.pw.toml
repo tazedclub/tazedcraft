@@ -1,6 +1,6 @@
 name = "BetterVanillaBuilding Overlays "
 filename = "BvBOverlaysV4.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

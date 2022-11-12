@@ -1,6 +1,6 @@
 name = "Faithful 64x"
 filename = "Faithful 64x.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
