@@ -148,6 +148,11 @@ hash = "7c3e839ecd643c10c6f905e193b6edc18c978e4be202a031cffd0b3a45266ece"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "575bdefe476d24d7d50f7ac66bd80bf8c770d108bf4683a2e7d772c3dabb4fb1"
 metafile = true
@@ -264,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d816ebefd14031acd676b2e7dc2d77ea7e1370903ddac480865fb68540216032"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
@@ -294,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4d587d801b5fac6a4fd3b04bb109eb8930c0b05baee7ea62326f9b6ffad107e2"
+hash = "0ea0cc8225119a997b409c21410274982d7176f0efc921e3279eeb8bbf7bdcdc"
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
