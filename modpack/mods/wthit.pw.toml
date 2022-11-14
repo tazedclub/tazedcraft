@@ -1,0 +1,7 @@
+name = "wthit"
+filename = "wthit-fabric-5.999-adac571.jar"
+
+[download]
+url = "https://d3cdxjjllftpi5.cloudfront.net/tazedcraft/mods/wthit-fabric-5.999-adac571.jar"
+hash-format = "sha1"
+hash = "66235c996ed66beab7a30dffe070d2dfe3ad4e2b"
