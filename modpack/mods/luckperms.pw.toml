@@ -1,0 +1,7 @@
+name = "LuckPerms"
+filename = "LuckPerms-Fabric-5.4.52.jar"
+
+[download]
+url = "https://download.luckperms.net/1460/fabric/LuckPerms-Fabric-5.4.52.jar"
+hash-format = "sha1"
+hash = "977d5f0be8e09e54838ad433fa5354d6e098d940"

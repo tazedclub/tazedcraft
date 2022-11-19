@@ -214,6 +214,11 @@ hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "6a62226a88d8e97da67fff001391a85fab14c036dfed5fc5ec03fbb7088a1a14"
+metafile = true
+
+[[files]]
 file = "mods/mavm.pw.toml"
 hash = "aba200ac8818fe5ce59c1cb342dcd530b81e3ea85ce2e9f9c1d3a8863b8b1be7"
 metafile = true
@@ -341,6 +346,11 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "49f66f26db6f00e16e94c0b161f3786f9d7afaef4667e78b9e5e35a1c9556a7d"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
 metafile = true
 
 [[files]]
