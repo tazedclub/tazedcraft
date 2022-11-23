@@ -74,6 +74,11 @@ hash = "5d450eb05b27dff35aa17b0255868c56a23834078ef72b565b9590ea82d51a16"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "4bc3b51f3753dd26cdb405684dc69a8d529aa473bf6562291db666c07f823e88"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "3d89448c7689702ee772d9d1a5119dc7f47facdf8adf0d780804fda257d6671a"
 metafile = true
@@ -171,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/frame-api.pw.toml"
 hash = "8178032232586e97c3db3aa7c9f5c3901d98c53b6aeed32097a4acbfd908c374"
+metafile = true
+
+[[files]]
+file = "mods/fuel-info.pw.toml"
+hash = "4ef070f07fa53123492321294813b5ae4784cfa6e75dcae2a264eba7705dccf1"
 metafile = true
 
 [[files]]
