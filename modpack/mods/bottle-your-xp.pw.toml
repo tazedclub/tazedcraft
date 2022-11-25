@@ -1,0 +1,13 @@
+name = "Bottle Your Xp"
+filename = "bottleyourxp-fabric_1.19.2-2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bG2afBot/versions/KTdClEcu/bottleyourxp-fabric_1.19.2-2.2.jar"
+hash-format = "sha1"
+hash = "e26a4f4997cd9f20eba11b4c20a11f903d25153f"
+
+[update]
+[update.modrinth]
+mod-id = "bG2afBot"
+version = "KTdClEcu"

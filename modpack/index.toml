@@ -79,6 +79,11 @@ hash = "4bc3b51f3753dd26cdb405684dc69a8d529aa473bf6562291db666c07f823e88"
 metafile = true
 
 [[files]]
+file = "mods/bottle-your-xp.pw.toml"
+hash = "bac27de108006fefe899a18578b805ce04b933ccfe7388f725ac732fbd9bc16d"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "3d89448c7689702ee772d9d1a5119dc7f47facdf8adf0d780804fda257d6671a"
 metafile = true
@@ -194,13 +199,28 @@ hash = "58ec51afc2354d65aeb2f9e068d8467fb2d3c13a3e751325385a59d5d493930f"
 metafile = true
 
 [[files]]
+file = "mods/healing-campfire.pw.toml"
+hash = "dc306ccc6f8c53aadb60a5fd75149f475e8171782d546370ef26c76842436e06"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "7c3e839ecd643c10c6f905e193b6edc18c978e4be202a031cffd0b3a45266ece"
 metafile = true
 
 [[files]]
+file = "mods/inventory-totem.pw.toml"
+hash = "e194424b0978c6f2467ceffd93745aad96954b3636855c71fbb93011b05d310d"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
+metafile = true
+
+[[files]]
+file = "mods/just-mob-heads.pw.toml"
+hash = "e0e876195a804b51ea528bb73b18ab77b11c0267932be5ff4ce94a473df86b17"
 metafile = true
 
 [[files]]
