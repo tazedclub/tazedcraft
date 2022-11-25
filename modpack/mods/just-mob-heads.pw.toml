@@ -1,0 +1,13 @@
+name = "Just Mob Heads"
+filename = "justmobheads-fabric_1.19.2-6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jzTUm9hE/versions/kPzwZNnS/justmobheads-fabric_1.19.2-6.2.jar"
+hash-format = "sha1"
+hash = "6de12bace1d4ab54554c218a9f944b89681481d7"
+
+[update]
+[update.modrinth]
+mod-id = "jzTUm9hE"
+version = "kPzwZNnS"
