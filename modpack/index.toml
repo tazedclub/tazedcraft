@@ -233,6 +233,11 @@ hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "dab1b9951ec4ae8702752293bda463f07db441a63a46525c8c8c342a5a982c5a"
+metafile = true
+
+[[files]]
 file = "mods/just-mob-heads.pw.toml"
 hash = "e0e876195a804b51ea528bb73b18ab77b11c0267932be5ff4ce94a473df86b17"
 metafile = true
@@ -335,6 +340,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "527279ca4b9a30e756139465d01009482bafc3e2992c96947118a56e0bce293f"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "58895127695d12757a124219ae3f0ca7286d518179368fe3f6d7753604673cb8"
 metafile = true
 
 [[files]]
