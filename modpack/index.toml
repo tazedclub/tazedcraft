@@ -388,6 +388,11 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
+file = "mods/mizunos.pw.toml"
+hash = "a15de42aec43025e7db238b25d98e74533f8e8959328df8a746251154731dccc"
+metafile = true
+
+[[files]]
 file = "mods/moborigins.pw.toml"
 hash = "da4c6ce45e3c122cfa2e7f0a224ae6ce27646bdaf4cda96276de7c78e5fa9d8e"
 metafile = true

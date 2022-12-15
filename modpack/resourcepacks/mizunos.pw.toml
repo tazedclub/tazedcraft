@@ -1,8 +1,8 @@
 name = "Mizunos"
-filename = "Mizunos 16 Craft JE_1.18.2-1.0.zip"
+filename = "Mizunos 16 Craft JE_1.19.3-1.0.zip"
 side = "client"
 
 [download]
-url = "https://d3cdxjjllftpi5.cloudfront.net/tazedcraft/resourcepacks/Mizunos 16 Craft JE_1.18.2-1.0.zip"
+url = "https://d3cdxjjllftpi5.cloudfront.net/tazedcraft/resourcepacks/Mizunos 16 Craft JE_1.19.3-1.0.zip"
 hash-format = "sha1"
-hash = "e8dabc7823482aa76f7d357cface7300280abbc3"
+hash = "469af34ee6d2f3d57456b1105887b6300d8a4558"
