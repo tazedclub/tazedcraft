@@ -388,11 +388,6 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
-file = "mods/mizunos.pw.toml"
-hash = "a15de42aec43025e7db238b25d98e74533f8e8959328df8a746251154731dccc"
-metafile = true
-
-[[files]]
 file = "mods/moborigins.pw.toml"
 hash = "da4c6ce45e3c122cfa2e7f0a224ae6ce27646bdaf4cda96276de7c78e5fa9d8e"
 metafile = true
@@ -618,7 +613,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mizunos.pw.toml"
-hash = "adf27e3d7624ed2a11e2b89ea6defc4095c22cddd9668538d4d3c7b180d5e5dd"
+hash = "f9397dd53d7b0ad101d4afbfd297d2481b1a7a51357048c593ef7bc0ad2765fe"
 metafile = true
 
 [[files]]
