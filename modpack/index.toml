@@ -498,6 +498,11 @@ hash = "babcd7c265ebb491e5036bec3be4d9050de69c1257781f41463994cc20421351"
 metafile = true
 
 [[files]]
+file = "mods/roundaround-villager-converting.pw.toml"
+hash = "df1cefcdd1361b964f055f1fef86893d13783e94ff4315a69ac05148a8368e05"
+metafile = true
+
+[[files]]
 file = "mods/simple-backpack-fabric.pw.toml"
 hash = "9e0cfc6e9bf341be13f220cba649a3420597025aebae9af7e12fa8c452ace24d"
 metafile = true
